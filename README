@@ -1,0 +1,13 @@
+Acktie Mobile QR Encoder Module Example (for iOS)
+
+The example shows various ways to use the QR Encoder module.  The code is intented to get you started in using the module but may need to be refactored for your app.
+
+NOTE: The example is enabled for both iOS and Android however we currently on have an iOS QR encoder module.
+
+Feel free to offer suggestions.
+
+Thanks,
+
+Tony
+@Acktie
+www.acktie.com
